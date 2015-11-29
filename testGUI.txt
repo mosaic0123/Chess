@@ -1,0 +1,12 @@
+White Pawn 1: 2 steps forward - move
+Black Pawn 1: 2 steps forward - move
+White Pawn 1: 1 step forward - reject
+			  1 step upper-right - reject
+White Rook 1: 5 step forward - reject
+White Knight 1: 2 steps forward and 1 step right - move
+Black Pawn 3: 1 step forward -move 
+White Pawn 4: 1 step forward -move
+Black Rook 1: 2 steps forward -move
+White Knight 1: 2 steps forward and 1 step right - move
+Black King 1: 1 step forward -move
+
